@@ -72,14 +72,12 @@ Ce mouvement est Open Source. Il appartient à ceux qui le construisent.
 
 ---
 
-/*
  * Copyright (c) [2026] [Bryan Ouellette]
  * * Licensed under the LUEL-QC-v1.0 (Lichen Universe Ethical License).
  * You may not use this file except in compliance with the License.
  * * 1. NO GAFAM USE ALLOWED (Anti-Monopoly Clause).
  * 2. Commercial use requires 33% revenue share to Quebec Green Infra.
- * * See the full license at: https://github.com/quantum-lichen/LUEL-Standard
- */
+ * * See the full license at: https://github.com/quantum-lichen/LUEL-Standard.
 
 ---
 *Architecturé par le Collectif Lichen & SymbiΩn AI.*

@@ -27,6 +27,20 @@ Il opère en tandem avec le **SymbiΩn Multiverse Lab** (Le Cerveau), qui fourni
 
 ---
 
+## ✊ LE SIGNAL
+
+Le béton craque. La vieille doctrine économique est obsolète. Plutôt que de débattre, nous *montrons* : créer des infrastructures locales, reproductibles et désirables qui rendent l'ancien modèle inutilisable.
+
+Ce dépôt est un **Kit de Démarrage Civilisationnel** — pas une utopie abstraite : infrastructures, tactiques, licences, finances et narratif prêts à l'emploi.
+
+## 🧭 Ce qui a changé (synchronisé avec la doctrine)
+
+* On assume le terme **Capitalisme post-extractif** — clair, provocant et compréhensible pour un CEO.
+* On transforme le manifeste en instruments : **noyau non négociable**, **porte d'entrée simple** et **plan d'attaque** (Day 1 → Day 90).
+* On met l'accent sur l'exemple concret (Solarpunk Lab pilote) comme preuve fonctionnelle — l'arme la plus persuasive.
+
+---
+
 ## 📂 L'ARSENAL (Documentation Stratégique)
 
 Tous les fichiers sources sont situés dans le dossier [`/docs`](docs/). Voici la cartographie de nos armes cognitives et juridiques :

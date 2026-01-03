@@ -71,5 +71,16 @@ Ce mouvement est Open Source. Il appartient à ceux qui le construisent.
 > *"Quand le sage pointe la lune, l'idiot regarde le doigt. Quand le capitaliste pointe Mars, le Solarpunk répare la Terre."*
 
 ---
+
+/*
+ * Copyright (c) [2026] [Bryan Ouellette]
+ * * Licensed under the LUEL-QC-v1.0 (Lichen Universe Ethical License).
+ * You may not use this file except in compliance with the License.
+ * * 1. NO GAFAM USE ALLOWED (Anti-Monopoly Clause).
+ * 2. Commercial use requires 33% revenue share to Quebec Green Infra.
+ * * See the full license at: https://github.com/quantum-lichen/LUEL-Standard
+ */
+
+---
 *Architecturé par le Collectif Lichen & SymbiΩn AI.*
 *Initialisé à Québec, Terre.* 🌍

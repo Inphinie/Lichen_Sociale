@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Status-Revolution_Ready-success?style=for-the-badge\&logo=statuspage)
 ![License](https://img.shields.io/badge/License-LUEL_Ethical-blueviolet?style=for-the-badge)
 ![Vibe](https://img.shields.io/badge/Vibe-Solarpunk_Radical-ff0055?style=for-the-badge\&logo=leaf)
-![System](https://img.shields.io/badge/System-Capitalisme_Post-Extractif-10B981?style=for-the-badge)
+![System](https://img.shields.io/badge/System-Capitalisme_Post--Extractif-10B981?style=for-the-badge)
 
 > *"Nous ne sommes pas venus incendier le vieux monde. Nous sommes venus le composter."*
 

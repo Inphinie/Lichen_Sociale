@@ -20,7 +20,7 @@
 ## 🧠 SYMBIOSE SYSTÉMIQUE
 
 Ce projet est le **Corps Social** d'une architecture plus vaste.
-Il opère en tandem avec le **SymbiΩn Multiverse Lab** (Le Cerveau), qui fournit l'intelligence computationnelle, les mathématiques fractales et les protocoles quantiques nécessaires à la coordination globale.
+Il opère en tandem avec le **Lichen Universe** (Le Cerveau), qui fournit l'intelligence computationnelle, les mathématiques fractales et les protocoles quantiques nécessaires à la coordination globale.
 
 * **Lichen Social** = Infrastructure Physique & Sociale (Atomes, Personnes, Lois).
 * **SymbiΩn Lab** = Infrastructure Logique & Spirituelle (Bits, Maths, Conscience).
